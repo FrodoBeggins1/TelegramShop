@@ -1,0 +1,4 @@
+document.querySelector('button').addEventListener('click', function () {
+  alert('Ви зв’язалися з менеджером!');
+});
+<button class="btn btn-primary">Зв’язатися з менеджером</button>
